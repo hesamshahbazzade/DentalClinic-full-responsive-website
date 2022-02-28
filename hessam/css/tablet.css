@@ -1,0 +1,48 @@
+@media screen and (min-width: 781px) and (max-width: 1300px) {
+  html {
+    font-size: 13px;
+  }
+
+  .view-area {
+    width: 95%;
+  }
+
+  nav.menu a {
+    margin: 0px;
+  }
+
+  a.logo {
+    width: 300px;
+  }
+  a.logo > img {
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+  }
+  nav.menu {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  
+  .header .consult a.btn {
+      width: 25%;
+  }
+  .main .main-content .view-area .main-img img:nth-child(1) {
+    width: 80%;
+  }
+
+  .main .main-content .view-area .main-img img:nth-child(2) {
+    width: 25%;
+
+  }
+  .info .view-area .tel {
+    padding: 20px;
+  }
+
+  .info .view-area .card {
+      padding: 15px;
+  }
+  
+
+}

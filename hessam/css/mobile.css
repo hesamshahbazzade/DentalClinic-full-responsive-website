@@ -1,0 +1,196 @@
+@media screen and (max-width: 780px) {
+  html {
+    font-size: 13px;
+  }
+  .view-area {
+    width: 95%;
+  }
+
+  a.mobile-menu {
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-image: url(/hessam/images/mobile-menu.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+  }
+
+  nav.menu {
+    display: none;
+  }
+  .mobile-lng {
+    display: block;
+    text-align: center;
+  }
+  a.lng {
+    width: 100%;
+  }
+
+  a.lng > img {
+    display: inline-block;
+    width: 20%;
+    vertical-align: middle;
+  }
+
+  a.logo {
+    width: 220px;
+  }
+
+  a.logo > img {
+    width: 100%;
+  }
+
+  .header {
+    height: 830px;
+  }
+  .header::before {
+    background: linear-gradient(30deg, #50ceca 30%, #1d6387 30%, #1d6387);
+  }
+
+  .header > .content {
+    flex-direction: column;
+    justify-content: inherit;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .header .content .highlight {
+    width: 90%;
+    margin-bottom: 40px;
+  }
+
+  .header .content .consult {
+    width: 90%;
+    padding: 10px;
+  }
+  .header .content .highlight p {
+    font-size: 2.2rem;
+  }
+  .main .main-content .view-area {
+    flex-direction: column;
+    margin-bottom: 150px;
+  }
+
+  .main .main-content .view-area .main-img {
+    margin-bottom: 150px;
+  }
+
+  .main .main-content .view-area .main-img img:nth-child(1) {
+    width: 90%;
+    right: -20px;
+  }
+  .main .main-content .view-area .main-img img:nth-child(2) {
+    width: 200px;
+    bottom: 260px;
+  }
+
+  .main .main-content .view-area .main-title {
+    width: 90%;
+  }
+
+  .main .main-content .view-area .main-title a.btn {
+    display: block;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info .view-area .tel {
+    width: 80%;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .info .tel .tel-info strong {
+    font-size: 1.5rem;
+  }
+  .info .tel .tel-info span {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .info .view-area .services .service-title span {
+    width: 100%;
+    line-height: 1.5rem;
+  }
+
+  ul.client-feedback {
+    flex-direction: column;
+  }
+
+  ul.client-feedback > li {
+    width: 100%;
+  }
+
+  ul.client-feedback > li.one-row > .box {
+    margin-bottom: 50px;
+  }
+
+  ul.client-feedback > li.one-row > .box {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+  }
+  ul.client-feedback > li.two-row > .box {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+  }
+  ul.client-feedback > li.two-row > .box > div > * {
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  ul.client-feedback > li.two-row > .box > div > span {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+
+  ul.client-feedback > li.two-row > .box > div > p {
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    text-align: center;
+  }
+
+  ul.client-feedback > li.two-row > .box > img {
+    width: 100px;
+    margin-bottom: 15px;
+  }
+
+  .price-title .view-area strong {
+    font-size: 1.8rem;
+  }
+  .price-title .view-area span {
+    width: 100%;
+  }
+
+  .footer .view-area .google-map img {
+    width: 100%;
+    height: 100%;
+  }
+  .footer .view-area .google-map {
+    width: 100%;
+    height: 200px;
+  }
+  .footer .view-area .footer-title {
+    flex-wrap: wrap;
+  }
+
+  .footer .view-area .footer-title div:nth-child(1) {
+    width: 100%;
+  }
+  .footer .view-area .footer-title div:not(.footer-logo) {
+    width: 50%;
+  }
+
+  .rights .view-area span {
+    font-size: 0.5rem;
+    width: 50%;
+  }
+}

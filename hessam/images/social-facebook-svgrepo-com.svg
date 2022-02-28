@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="100px"
+   height="100px"
+   viewBox="0 0 100 100"
+   enable-background="new 0 0 100 100"
+   xml:space="preserve"
+   sodipodi:docname="social-facebook-svgrepo-com.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs8"><filter
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Invert"
+     id="filter14"
+     x="0"
+     y="0"
+     width="1"
+     height="1"><feColorMatrix
+       type="hueRotate"
+       values="180"
+       result="color1"
+       id="feColorMatrix10" /><feColorMatrix
+       values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+       result="color2"
+       id="feColorMatrix12" /></filter></defs><sodipodi:namedview
+   id="namedview6"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="8.44"
+   inkscape:cx="49.940758"
+   inkscape:cy="50.059242"
+   inkscape:window-width="1848"
+   inkscape:window-height="1016"
+   inkscape:window-x="72"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="White_1_" />
+<g
+   id="White_1_">
+	<path
+   d="M82.026,14H17.974C15.779,14,14,15.779,14,17.974v64.053C14,84.221,15.779,86,17.974,86h34.483V58.118h-9.383V47.252h9.383   v-8.014c0-9.3,5.68-14.363,13.976-14.363c3.974,0,7.389,0.295,8.385,0.428v9.719l-5.754,0.003c-4.512,0-5.385,2.144-5.385,5.29   v6.938h10.76l-1.401,10.866h-9.359V86h18.348C84.221,86,86,84.221,86,82.026V17.974C86,15.779,84.221,14,82.026,14z"
+   id="path2"
+   style="filter:url(#filter14)" />
+</g>
+</svg>

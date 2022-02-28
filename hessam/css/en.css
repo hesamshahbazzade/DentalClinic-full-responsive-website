@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Ubuntu;
+  src: url("/assets/fonts/Ubuntu-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  font-family: Ubuntu;
+  font-size: 18px;
+}
+
+body {
+  direction: ltr;
+}
